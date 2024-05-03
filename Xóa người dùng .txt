@@ -1,0 +1,13 @@
+Xóa người dùng :
+
+- xóa Bảng follow
+- Chuyển bài viết sang IsDelete
+- Chuyển Coment sang IsDelete
+- Xóa Bảng LikeComent
+- Xóa bảng Report
+- Xóa bảng like post
+- Xóa bảng PostCollection
+- Xóa bảng Collections
+
+=> Xóa bảng user
+(Bảng confirm Email, rfToken tự xóa)
